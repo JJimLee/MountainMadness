@@ -1,0 +1,12 @@
+name: hackthon2021
+title: hackthon2021
+username:
+account: yla507
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3635584
+bundleId: 4222095
+url: https://yla507.shinyapps.io/hackthon2021/
+when: 1613324845.17644
+asMultiple: FALSE
+asStatic: FALSE

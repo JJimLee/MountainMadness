@@ -1,0 +1,13 @@
+name: appp
+title: appp
+username:
+account: yla507
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3635654
+bundleId: 4222136
+url: https://yla507.shinyapps.io/appp/
+when: 1613326219.58475
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AAPL.xlsx
